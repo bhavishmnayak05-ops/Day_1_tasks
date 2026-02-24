@@ -8,11 +8,17 @@
 3) line 3
 4) line 4
 
+    - line 1
+    - line 2
+    - line 3 
+
+
+![alt text](The-Top-5-Luxury-Cars-imagem-de-capa.png)
+
 ```python
 print("hello world")
-  
-
-![alt text](Screenshot_2.png)
+```  
 
 *italic*<br>
+
 **bold**
